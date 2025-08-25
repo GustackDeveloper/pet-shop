@@ -1,6 +1,7 @@
 {
   "name": "react-final-project-structure",
   "private": true,
+  "homepage": "https://gustackdeveloper.github.io/pet-shop/",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
